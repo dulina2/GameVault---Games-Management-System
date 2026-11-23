@@ -1,0 +1,6 @@
+{
+  "name": "GameVault - Games Management System",
+  "description": "Comprehensive Game Library, Backlog Tracker, Platform Manager & Analytics System built with React and Chakra UI design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
